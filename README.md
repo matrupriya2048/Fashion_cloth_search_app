@@ -38,7 +38,7 @@ Follow these steps to get the project running locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fashion-cloth-search-app.git
+git clone https://github.com/matrupriya2048/fashion_cloth_search_app.git
 cd fashion-cloth-search-app
 ```
 

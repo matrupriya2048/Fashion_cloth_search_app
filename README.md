@@ -1,4 +1,3 @@
-# Fashion_search_app
 # Fashion Cloth Search App
 
 This is a simple fashion search application built using **CLIP ViT-B-32** model for text-to-image search. You can search through a dataset of clothing images using natural language queries, and the application will return the most relevant images based on the query. This project leverages several AI tools and libraries such as **Haystack**, **Streamlit**, **Gradio**, **FastAPI**, and more to create an interactive search experience.
